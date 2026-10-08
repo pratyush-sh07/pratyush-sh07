@@ -5,9 +5,9 @@
 
 <div align="center">
 
-  <!-- Animated Header Wave Banner -->
+  <!-- High-Tech Cyberpunk Animated Background Banner -->
   <a href="https://github.com/pratyush-sh07">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,30&height=220&section=header&text=⚡%20PRATYUSH%20SHARMA%20⚡&fontSize=44&fontAlignY=38&desc=🚀%20Passionate-CS%20Student%20%7C%20Creative%20Developer%20%7C%20Open-Source%20Explorer&descAlignY=60&descAlign=50&animation=twinkling" width="100%" alt="Pratyush Sharma Header Banner" />
+    <img src="https://raw.githubusercontent.com/pratyush-sh07/pratyush-sh07/main/assets/banner.svg" width="100%" alt="Pratyush Sharma Cyberpunk Banner" />
   </a>
 
   <!-- Animated Typing SVG -->
