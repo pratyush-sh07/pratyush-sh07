@@ -57,7 +57,7 @@ current_endeavors:
 
 philosophy:
   mantra: "Turn complex logic into elegant, maintainable, and delightful software."
-  fuel: "Caffeine ☕ + Curiosity 💡 + Clean Code ✨"
+  fuel: "Internal Motivation ☕ + Curiosity 💡 + Clean Code ✨"
 ```
 
 <br/>
